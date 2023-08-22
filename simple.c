@@ -1,6 +1,6 @@
-#include <linux/init.h>
-#include <linux/kernel.h>
-#include <linux/module.h>
+#include </usr/src/kernels/6.1.41-63.114.amzn2023.x86_64/include/linux/init.h>
+#include </usr/src/kernels/6.1.41-63.114.amzn2023.x86_64/include/linux/kernel.h>
+#include </usr/src/kernels/6.1.41-63.114.amzn2023.x86_64/include/linux/module.h>
 
 /* This function is called when the module is loaded. */ 
 int simple_init(void)
